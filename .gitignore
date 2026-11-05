@@ -1,0 +1,31 @@
+# Compiled object files
+*.obj
+*.o
+
+# Executables
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Debug files
+*.pdb
+*.ilk
+*.idb
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.cache
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
